@@ -68,3 +68,19 @@ Lexica.art：
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
+
+## imagens
+<p align="center">
+    <img width="100" src=".github/assets/foto1.png">
+</p>
+<p align="center">
+    <img width="100" src=".github/assets/foto2.png">
+</p>
+<p align="center">
+    <img width="100" src=".github/assets/foto3.png">
+</p>
+<p align="center">
+    <img width="100" src=".github/assets/foto4.png">
+</p>
+
+
