@@ -41,8 +41,10 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  |Crie 10 headlines para nomes de artigos sobre o assunto java - poo                                                                                                                          |
-| conteúdo |COMPORTE-SE COMO UM ESCRITOR DE ARTIGOS TECH BACKEND E ESCREVA O ARTIGO ATENDENDO AS REGRAS ABAIXO
-{REGRAS}NO MAXIMO 5 LINHAS POR BLOCOS DE EXPLICAÇÃOME EXPLIQUE DE MANEIRA INFORMAL, COMO SE EU FOSSE UMA CRIANÇA DE 10 ANOSOS BLOCOS QUE SERÃO CRIADOS ESTÃO ABAIXO: O que é EncapsulamentoO que é Herança O que é PolimorfismoCite exemplos de  EncapsulamentoCite exemplos de  HerançaCite exemplos  de Polimorfismo Faça um call to action para minha redes sociaisColoque 3 hashtags que façam sentido |
+| conteúdo |COMPORTE-SE COMO UM ESCRITOR DE ARTIGOS TECH BACKEND E ESCREVA O ARTIGO ATENDENDO AS REGRAS ABAIXO {REGRAS}NO MAXIMO 5 LINHAS POR BLOCOS DE EXPLICAÇÃOME EXPLIQUE 
+ DE MANEIRA INFORMAL, COMO SE EU FOSSE UMA CRIANÇA DE 10 ANOSOS BLOCOS QUE SERÃO CRIADOS ESTÃO ABAIXO: O que é 
+ EncapsulamentoO que é Herança O que é PolimorfismoCite exemplos de  EncapsulamentoCite exemplos de  HerançaCite exemplos  de Polimorfismo Faça um call to action para minha 
+ redes sociaisColoque 3 hashtags que façam sentido |
 
 
 Lexica.art：
@@ -65,6 +67,3 @@ Lexica.art：
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
-
-## 👨‍💻 Expert
-
