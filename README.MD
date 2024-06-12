@@ -42,10 +42,10 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  |Crie 10 headlines para nomes de artigos sobre o assunto java - poo                                                                                                                          |
 | conteúdo |COMPORTE-SE COMO UM ESCRITOR DE ARTIGOS TECH BACKEND E ESCREVA O ARTIGO ATENDENDO AS REGRAS ABAIXO {REGRAS}NO MAXIMO 5 LINHAS POR BLOCOS DE EXPLICAÇÃOME EXPLIQUE 
-|           DE MANEIRA INFORMAL, COMO SE EU FOSSE UMA CRIANÇA DE 10 ANOSOS BLOCOS QUE SERÃO CRIADOS ESTÃO ABAIXO: O que é EncapsulamentoO que é Herança O que             
-|            é PolimorfismoCiteexemplos de  EncapsulamentoCite exemplos de  HerançaCite exemplos  de Polimorfismo Faça um call to action 
-|            para minha redes sociaisColoque 3 hashtags que façam sentido 
-|                      |
+|          |DE MANEIRA INFORMAL, COMO SE EU FOSSE UMA CRIANÇA DE 10 ANOSOS BLOCOS QUE SERÃO CRIADOS ESTÃO ABAIXO: O que é EncapsulamentoO que é Herança O que             
+|          |  é PolimorfismoCiteexemplos de  EncapsulamentoCite exemplos de  HerançaCite exemplos  de Polimorfismo Faça um call to action 
+|          |  para minha redes sociaisColoque 3 hashtags que façam sentido 
+                       |
 
 
 Lexica.art：
