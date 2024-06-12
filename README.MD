@@ -75,14 +75,17 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 <p align="center">
     <img width="100" src=".github/assets/foto1.png">
 </p>
+
 ### Herança
 <p align="center">
     <img width="100" src=".github/assets/foto2.png">
 </p>
+
 ### Polimorfismo 
 <p align="center">
     <img width="100" src=".github/assets/foto3.png">
 </p>
+
 ### Conclusão
 <p align="center">
     <img width="100" src=".github/assets/foto4.png">
