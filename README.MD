@@ -3,13 +3,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
-  </a>
-</p>
-
 -------
 
 <p align="center">
@@ -47,15 +40,16 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  |Crie 10 headlines para nomes de artigos sobre o assunto java - poo                                                                                                                          |
+| conteúdo |COMPORTE-SE COMO UM ESCRITOR DE ARTIGOS TECH BACKEND E ESCREVA O ARTIGO ATENDENDO AS REGRAS ABAIXO
+{REGRAS}NO MAXIMO 5 LINHAS POR BLOCOS DE EXPLICAÇÃOME EXPLIQUE DE MANEIRA INFORMAL, COMO SE EU FOSSE UMA CRIANÇA DE 10 ANOSOS BLOCOS QUE SERÃO CRIADOS ESTÃO ABAIXO: O que é EncapsulamentoO que é Herança O que é PolimorfismoCite exemplos de  EncapsulamentoCite exemplos de  HerançaCite exemplos  de Polimorfismo Faça um call to action para minha redes sociaisColoque 3 hashtags que façam sentido |
 
 
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
+• Java
 
 
 
@@ -74,27 +68,3 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
